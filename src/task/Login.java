@@ -18,7 +18,7 @@ import java.util.regex.Pattern;
  *
  * @author Tevessan Naidoo
  */
-public class Login 
+public class Login {
 
     // This method checks the username.
     public boolean checkUserName(String storeName) {
