@@ -17,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  *
  * @author Naidoo
  */
-public class loginTestTask 
+public class loginTestTask {
     Login input = new Login();
     Task2 taskInput = new Task2();
 
